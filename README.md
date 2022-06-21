@@ -1,5 +1,4 @@
 ### Hello 👋
-![FRONT-END DEVELOPER](https://scontent.fdac116-1.fna.fbcdn.net/v/t39.30808-1/280153271_2123652644460613_2140128297218539038_n.jpg?stp=dst-jpg_p200x200&_nc_cat=102&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEw5XbwK61ByauXM0itGU6wNy1vUgRskn83LW9SBGySf26lMBRXfMapsF_NkON4QihIKyqewtyzMPPHiRBOIeN7&_nc_ohc=M-yUcyvSKMEAX9NhX32&_nc_ht=scontent.fdac116-1.fna&oh=00_AT9XuoPf0APZG_AXOODi6_MbBJo7mxzuju6BdL3zgvX4yg&oe=62B66C75)
 
 ##### Myself MD EMARAT HOSSAIN, FRONT-END DEVELOPER and I have a Bachelor's Degree in Computer Science & Engineering from City University, Bangladesh.
 

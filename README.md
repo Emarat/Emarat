@@ -20,18 +20,34 @@ Also a Skilled, Self-Motivated, Quick learner looking for opportunities to learn
 #### ⛔SOCIAL MEDIA
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Emarat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emarat/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ehrabby.00)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/emarat_rabbi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/EmaratHossain8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18389179)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://emarat.netlify.app/)  
 
+
+#### ✅GITHUB BADGES
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+#### 🏆GITHUB TROPHIES
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Emarat)](https://github.com/ryo-ma/github-profile-trophy)
 
+#### 📝MOST USED LANGUAGES
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emarat)](https://github.com/anuraghazra/github-readme-stats)
+
+#### 🔍GITHUB STATS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Emarat&show_icons=true)  
 
+#### 📈GITHUB ACTIVITY GRAPH
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Emarat)  
+
+#### 📑GITHUB METRICS
 
 ![GitHub metrics](https://metrics.lecoq.io/Emarat)  
 
+#### 📊GITHUB STREAK STATS
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Emarat)  
+
+#### 🕵️‍♀️PROFILE VIEWS
 
 ![Profile views](https://gpvc.arturio.dev/Emarat)  

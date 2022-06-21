@@ -5,7 +5,11 @@
 
 Also a Skilled, Self-Motivated, Quick learner looking for opportunities to learn more about my field of interest ( FRONT-END DEVELOPMENT, MERN STACK DEVELOPMENT, SOFTWARE ENGINEERING ) by gaining professional experience. Looking forward to taking up challenges & working hard towards achieving the organization's goals through sincerity & dedication. I am keen to join an organization that provides me an opportunity for professional growth.
 
-Skills: HTML5 / CSS3 / Bootstrap5 / Tailwind CSS / JavaScript / ES6 / React / React Router / React Hook / Firebase / Rest Api / daisyUI / Node.js / Express.js / MongoDB / Git / npm / GitHub / VS Code / Sublime Text / Netlify / Firebase / Heroku.
+#### 💡Skills: 
+- Front-End: HTML5, CSS3, Bootstrap5, Tailwind CSS, JavaScript ES6, React, React Router, React Hook, Firebase, Rest Api, daisyUI.
+- Back-End: Node.js, Express.js.
+- Database: MongoDB.
+- Tools: Git , Npm, GitHub, VS Code, Sublime Text, Netlify, Firebase, Heroku.
 
 - 🔭 I’m currently working on my Development Skill. 
 - 🌱 I’m currently learning MERN Stack Development. 
